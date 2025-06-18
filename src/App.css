@@ -1,0 +1,28 @@
+.nav{
+  top:0;
+  background-color: cadetblue;
+  border: 2px solid blueviolet;
+}
+.nav h1{
+  font: bold;
+}
+
+.form input{
+  width: 400px;
+  height: 40px;
+  font-size: 40px;
+  background-color: white;
+}
+.form button{
+  height: 40px;
+  width: 80px;
+  background-color: blanchedalmond;
+  cursor: pointer;
+}
+
+ul{
+  background-color: antiquewhite;
+}
+ul button{
+  cursor: pointer;
+}
